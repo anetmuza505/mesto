@@ -1,0 +1,6 @@
+.element__link {
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    z-index: 1;
+}
